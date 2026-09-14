@@ -24,7 +24,7 @@ const Jokes = () => {
           className="btn btn-primary"
           onClick={handleClick}
         >
-          Generate a random joke
+          Wanna laugh?
         </button>
       </div>
         <div className="jokes">
